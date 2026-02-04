@@ -13,7 +13,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    background: linear-gradient(135deg, #d5b5f3 0%, #743ed8 100%);
+
     padding: 20px;
 }
 
@@ -65,14 +66,14 @@ h1.app-title {
 }
 
 #taskInput:focus {
-    border-color: #3498db;
+    border-color: #bf34db;
     outline: none;
     box-shadow: 0 0 8px rgba(52, 152, 219, 0.3);
 }
 
 #addTaskBtn{
     padding: 15px 28px;
-    background: linear-gradient(135deg, #9878bb 0%, #7d97c3 100%);
+    background: linear-gradient(135deg, #cb9bff 0%, #611bf9 100%);
     color: white;
     border: none;
     border-radius: 10px;
@@ -95,7 +96,7 @@ h1.app-title {
 
 button#addBtn {
     padding: 14px 24px;
-    background: #3498db;
+    background: #cd34db;
     color: white;
     border: none;
     border-radius: 10px;
@@ -137,7 +138,7 @@ li:hover {
     padding: 8px 16px;
     border-radius: 8px;
     border: none;
-    color: #e74c3c;
+    color: #fffefe;
     font-size: 14px;
     font-weight: 600;
     cursor: pointer;
