@@ -6,7 +6,7 @@ const taskList = document.getElementById('taskList');
 function addTask() {
     const taskText = taskInput.value.trim();
 
-    if (taskText !== '') {
+    if (taskText == '') {
         alert('Opsie! please enter a task.'); 
         return;
     }
