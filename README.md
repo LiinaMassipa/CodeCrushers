@@ -172,9 +172,9 @@ This project was completed as part of a Code Blossom hackathon, showcasing:
 ---
 
 ##  Authors
-**Laina Shivolo**
-**Ndamona Antsino**
-**Liina Massipa**
+- **Laina Shivolo**
+- **Ndamona Antsino**
+- **Liina Massipa**
 
 ---
 
