@@ -39,7 +39,7 @@ todo-app/
 
 ##  Team Contributions
 
-### Member 1 - HTML Structure (Beginner)
+### Member 1 - HTML Structure (Laina Shivolo)
 **Responsibilities:**
 - Created the basic HTML layout and semantic structure
 - Designed input field and "Add Task" button
@@ -58,7 +58,7 @@ todo-app/
 
 ---
 
-### Member 2 - CSS Styling (Beginner)
+### Member 2 - CSS Styling (Ndamona Antsino)
 **Responsibilities:**
 - Styled the entire application with modern design
 - Created gradient backgrounds and button effects
