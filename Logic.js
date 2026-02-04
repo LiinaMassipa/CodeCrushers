@@ -8,7 +8,7 @@ function addTask() {
 
     if (taskText !== '') {
         alert('Opsie! please enter a task.'); 
-        return
+        return;
     }
 
     const li = document.createElement('li');

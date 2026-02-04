@@ -56,6 +56,10 @@ button#addBtn {
     cursor: pointer;
 }
 
+button#addBtn:hover {
+    background: #2980b9;
+}
+
 #taskList {
     display: flex;
     flex-direction: column;
@@ -68,12 +72,22 @@ li {
     background: #f8f9fa;
     border-radius: 10px;
     border-left: 4px solid #3498db;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    transition: background 0.3s, border-left-color 0.3s;
+}
+
+li:hover {
+    background: #e9ecef;
 }
 
 .completed {
     text-decoration: line-through;
     color: #7f8c8d;
     border-left-color: #2ecc71;
+    background: #2980b9;
 }
 
 @media (max-width: 600px) {
